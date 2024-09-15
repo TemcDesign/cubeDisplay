@@ -53,7 +53,7 @@ Conexión a Internet para cargar los estilos y scripts desde archivos locales.
 1. Clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tuusuario/cubedisplay.git
+git clone https://github.com/TemcDesign/cubeDisplay.git
 ```
 
 2. Navega al directorio del proyecto:
